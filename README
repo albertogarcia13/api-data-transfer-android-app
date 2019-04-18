@@ -1,0 +1,2 @@
+This is a simple api for transfer data since android app to data base mariadb
+we have 2 simple methods, post and get, the 2 simplest operations in a data base
