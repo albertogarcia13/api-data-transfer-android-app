@@ -1,2 +1,8 @@
 This is a simple api for transfer data since android app to data base mariadb
 we have 2 simple methods, post and get, the 2 simplest operations in a data base
+For run this api you should to import spring boot options (alt+enter in springboot tags)
+
+This api is related witha gaste database, and the examples to get all expenses or add expenses
+It is using with android app because android can get data form database.
+In android app you only should to request to these endpoints and it will be running.
+
